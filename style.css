@@ -1,0 +1,20 @@
+*{
+    margin-top: 10px;
+}
+.container{
+
+    display:flex;
+    justify-content: center;
+    padding: 10px;
+    
+}
+#myChart{
+
+    width: 50vw;
+    height: 50vh;
+}
+#myChart2{
+
+    width: 50vw;
+    height: 50vh;
+}
